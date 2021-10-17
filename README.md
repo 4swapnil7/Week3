@@ -1,2 +1,2 @@
 # Week3
-Cpursera course
+Coursera course
